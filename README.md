@@ -34,3 +34,12 @@ The Inventory & Warehouse Management Dashboard is an interactive dashboard desig
 - Improves inventory monitoring and visibility.
 - Helps identify stock shortages and potential reorder requirements.
 - Supports data-driven inventory planning
+
+##Skills Demonstrated
+
+-Data visualization
+-KPI development
+-DAX measures
+-Interactive dashboard design
+-Inventory and warehouse data analysis
+-Business insight generation
