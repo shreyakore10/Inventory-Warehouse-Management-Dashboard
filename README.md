@@ -8,6 +8,10 @@ The Inventory & Warehouse Management Dashboard is an interactive dashboard desig
 - DAX (Data Analysis Expressions)
 - Data Visualization
 
+- ## Dashboard Preview
+
+![Inventory Dashboard](dashboard_preview.png)
+
 ## Key Performance Indicators (KPIs)
 - **Total Inventory Value:** $332.65K
 - **Total Stock Quantity:** 55K
