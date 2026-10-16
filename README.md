@@ -35,11 +35,15 @@ The Inventory & Warehouse Management Dashboard is an interactive dashboard desig
 - Helps identify stock shortages and potential reorder requirements.
 - Supports data-driven inventory planning
 
-##Skills Demonstrated
+## Skills Demonstrated
 
--Data visualization
--KPI development
--DAX measures
--Interactive dashboard design
--Inventory and warehouse data analysis
--Business insight generation
+- Data visualization
+- DAX measures
+- KPI development
+- Interactive dashboard design
+- Inventory data analysis
+- Business insight generation
+
+## Conclusion
+
+This project demonstrates how Power BI can be used to analyze inventory and warehouse data through interactive visualizations and KPIs, helping businesses monitor stock levels and make informed inventory management decisions.
